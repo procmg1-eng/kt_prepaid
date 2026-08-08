@@ -56,7 +56,7 @@ a { color: inherit; }
 /* ---------- Header ---------- */
 .site-header {
   background: var(--black);
-  padding: 6px 0;
+  padding: 4px 0;
   position: sticky;
   top: 0;
   z-index: 200;
@@ -72,7 +72,7 @@ a { color: inherit; }
   align-items: center;
   text-decoration: none;
 }
-.logo img { height: 60px; width: auto; display: block; }
+.logo img { height: 104px; width: auto; display: block; }
 .header-cta {
   background: var(--yellow);
   color: var(--yellow-ink);
